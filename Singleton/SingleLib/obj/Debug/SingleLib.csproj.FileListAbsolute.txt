@@ -1,0 +1,14 @@
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\obj\Debug\SingleLib.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\obj\Debug\SingleLib.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\bin\Debug\SingleLib.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\bin\Debug\SingleLib.pdb
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\bin\Debug\MySql.Data.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\bin\Debug\ZstdNet.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\bin\Debug\System.Memory.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\bin\Debug\System.Buffers.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\bin\Debug\MySql.Data.xml
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\obj\Debug\SingleLib.csproj.CopyComplete
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\obj\Debug\SingleLib.dll
+C:\Users\Саша\Desktop\Визуалка\кпз\Singleton\SingleLib\obj\Debug\SingleLib.pdb
